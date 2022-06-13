@@ -1,10 +1,11 @@
-# Power Apps 開発環境の作り方
+# Microsoft 365 と Power Platform 開発環境の作り方
 
-このリポジトリでは、Power Apps や Power Automate を好きに開発できる環境の作り方を説明しています。
+このリポジトリでは、Microsoft 365 と Power Platform を好きなように開発できる環境の作り方を記載しています。
+
+※一部制限事項あり
 
 Microsoft 365 開発者プログラム と Power Apps 開発者向けプラン を組み合わせることで、組織の制限に縛られない、自由な開発環境を構築できます。
 
-また、Power BI も Microsoft 365 開発者プログラム側に、Power BI Pro のライセンスが含まれていますので、併せて確認することが可能です！
 
 以下にそれぞれのリンクを記載していますので、自由に利用してください。
 
