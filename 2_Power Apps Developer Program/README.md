@@ -66,3 +66,9 @@ URL:https://powerapps.microsoft.com/ja-jp/developerplan/
 8. もし表示されていない場合は、右上の環境をクリックして、〇〇's Environment をクリックすると、開発者向けプランの環境に切り替えることができます。
 
 ![](pasteimage/2022-06-06-19-59-49.png)
+
+## 操作動画
+
+https://user-images.githubusercontent.com/21070122/174445543-30319789-fb02-48a8-b33e-1318e2a95633.mp4
+
+
