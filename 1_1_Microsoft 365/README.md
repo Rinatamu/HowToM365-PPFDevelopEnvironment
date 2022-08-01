@@ -21,6 +21,18 @@ URL:https://outlook.live.com/owa/
 
 ![](pasteimage/2022-06-06-19-35-02.png)
 
+## 既に Microsoft 365 環境をお使いの方へ
+
+既に会社やご自宅にて、Microsoft 365 環境をお使いの方は、本環境を作成して利用しようとすると、認証情報がかぶってしまい、正しく動作しない可能性があります。
+ブラウザの動作モードは、シークレットモードに切り替えて利用してください。
+各ブラウザの動作モード切り替え方法のリンクを以下に掲載しています。
+
+* [Microsoft Edge の InPrivate ブラウズ切り替え方法](https://askpc.panasonic.co.jp/beginner/guide/ten04/4202.html#:~:text=%E3%80%8CMicrosoft%20Edge%E3%80%8D%E3%82%92%E8%B5%B7%E5%8B%95%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%85%8B%E3%81%A7%E5%8F%B3%E4%B8%8A,%C3%97%5D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
+* [Google Chrome の シークレットウィンドウ切り替え方法](https://support.google.com/chrome/answer/95464?hl=ja&co=GENIE.Platform%3DDesktop)
+* [Firefox のプライベートブラウジング切り替え方法](https://support.mozilla.org/ja/kb/private-browsing-use-firefox-without-history)
+* [Safari のプライベートブラウズ切り替え方法](https://support.apple.com/ja-jp/guide/safari/ibrw1069/mac)
+
+
 ## 作成手順
 
 1. [Microsoft 365 開発者プログラム](https://developer.microsoft.com/ja-jp/microsoft-365/dev-program)にアクセスします。

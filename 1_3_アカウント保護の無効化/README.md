@@ -10,7 +10,7 @@ Microsoft 365 は、昨今の不正アクセスを増加を鑑み、新規に環
 
 1. [Azure Active Directory](https://aad.portal.azure.com/) にアクセスします。
 
-URL:[https://aad.portal.azure.com/](https://aad.portal.azure.com/)
+URL:https://aad.portal.azure.com/
 
 2. 管理者ユーザーを入力し、「次へ」をクリックします。
 

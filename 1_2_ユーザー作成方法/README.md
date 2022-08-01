@@ -15,7 +15,7 @@
 
 1. [Office.com](https://office.com) にアクセスします。
 
-URL:[https://office.com](https://office.com)
+URL:https://office.com
 
 2. サインインをクリックします。
 
